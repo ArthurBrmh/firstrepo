@@ -1,11 +1,11 @@
 # My First Project
 
 ## Description
-just testing things out
+prints hello world
 
 ## How to run it
-put it in your termial
+run in xcode
 
 ## Technologies used
-- CPP
+- cpp
 - Git
